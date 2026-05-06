@@ -12,6 +12,7 @@ Architecture, config, and decision logs for the-five-aegents project. Each topic
 - [[reuven-ceo-agent]] — Reuven, the CEO orchestrator agent (`.claude/agents/reuven.md`)
 - [[yuval-creative-agent]] — Yuval, the creative/image-generation sub-agent (`.claude/agents/yuval.md` + `yuval/`)
 - [[yael-content-writer]] — Yael, the content-writer sub-agent (`.claude/agents/yael.md` + `yael/`)
+- [[chen-web-researcher]] — Chen, the web-researcher sub-agent (`.claude/agents/chen.md` + `chen/`)
 - [[gpt-image-gen-skill]] — Project-internal skill wrapping the OpenAI Images API
 - [[claude-commands]] — `.claude/commands/` — placeholder for custom slash-commands
 - [[claude-skills]] — `.claude/skills/` — overview of all installed skills
