@@ -13,4 +13,5 @@ Architecture, config, and decision logs for the-five-aegents project. Each topic
 - [[claude-skills]] — `.claude/skills/` — overview of all installed skills
 - [[superpowers-skills]] — 14 skills installed from obra/superpowers
 - [[obsidian-skills]] — `obsidian-bases`, `obsidian-markdown`, `obsidian-vault-workflow`
+- [[skill-creator-install]] — `skill-creator` from anthropics/skills, project-scope install
 - [[obsidian-config]] — `.obsidian/` — Obsidian app config files for the vault
