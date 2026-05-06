@@ -1,0 +1,16 @@
+# Meeting Notes — Index
+
+Architecture, config, and decision logs for the-five-aegents project. Each topic file documents one component of the project: what it is, what files it contains, and how it relates to the rest of the system.
+
+## Topics
+
+- [[project-file-inventory]] — top-level map of every file and folder in the project
+- [[claude-md]] — `CLAUDE.md`, the entry-point instructions Claude Code reads at session start
+- [[env-config]] — `.env`, `.env.example`, `.gitignore` — environment variables and ignore rules
+- [[claude-settings]] — `.claude/settings.local.json` — local permission allowlist for Bash commands
+- [[claude-agents]] — `.claude/agents/` — placeholder for project-specific sub-agent definitions
+- [[claude-commands]] — `.claude/commands/` — placeholder for custom slash-commands
+- [[claude-skills]] — `.claude/skills/` — overview of all installed skills
+- [[superpowers-skills]] — 14 skills installed from obra/superpowers
+- [[obsidian-skills]] — `obsidian-bases`, `obsidian-markdown`, `obsidian-vault-workflow`
+- [[obsidian-config]] — `.obsidian/` — Obsidian app config files for the vault
