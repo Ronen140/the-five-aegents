@@ -10,6 +10,8 @@ Architecture, config, and decision logs for the-five-aegents project. Each topic
 - [[claude-settings]] — `.claude/settings.local.json` — local permission allowlist for Bash commands
 - [[claude-agents]] — `.claude/agents/` — project-specific agent definitions (currently: Reuven CEO)
 - [[reuven-ceo-agent]] — Reuven, the CEO orchestrator agent (`.claude/agents/reuven.md`)
+- [[yuval-creative-agent]] — Yuval, the creative/image-generation sub-agent (`.claude/agents/yuval.md` + `yuval/`)
+- [[gpt-image-gen-skill]] — Project-internal skill wrapping the OpenAI Images API
 - [[claude-commands]] — `.claude/commands/` — placeholder for custom slash-commands
 - [[claude-skills]] — `.claude/skills/` — overview of all installed skills
 - [[superpowers-skills]] — 14 skills installed from obra/superpowers

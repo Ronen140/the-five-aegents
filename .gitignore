@@ -1,1 +1,5 @@
 .env
+
+# Yuval generated outputs (keep folder, ignore generated files)
+yuval/outputs/*
+!yuval/outputs/.gitkeep
