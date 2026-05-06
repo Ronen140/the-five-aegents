@@ -3,3 +3,7 @@
 # Yuval generated outputs (keep folder, ignore generated files)
 yuval/outputs/*
 !yuval/outputs/.gitkeep
+
+# Yael rewrites — final outputs are local artifacts (keep folder, ignore content)
+Output/*
+!Output/.gitkeep
